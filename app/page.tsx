@@ -34,7 +34,7 @@ export default function Portfolio() {
           <div className="flex justify-center mb-6">
             <div className="relative w-28 h-28 rounded-full overflow-hidden border border-zinc-800">
               <Image
-                src="/projects/yo.jpeg"
+                src="/projects/yo.jpg"
                 alt="Profile"
                 fill
                 className="object-cover"
